@@ -1,0 +1,19 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env
+
+# Spark/Hadoop temporary metadata
+metastore_db/
+spark-warehouse/
+derby.log
+
+# System files
+.DS_Store
+Thumbs.db
