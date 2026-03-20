@@ -1,4 +1,4 @@
-# Olist Brazilian E-Commerce Data Analysis
+# Olist E-Commerce Data Analysis
 Predicting business performance and segmenting customers using the Olist dataset. Features big data processing with **PySpark**, RFM Analysis, and Logistics Performance tracking.
 
 ---
